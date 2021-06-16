@@ -86,25 +86,25 @@
 
 # 🤓 My Commercial Work
 
-1.  &nbsp;&nbsp;Sacred Groves
-    -   ### An application through which you can help protect our Mother Nature🌏
-    -   ### Unfortunately I can't show it until it's done...
+1.  &nbsp;&nbsp; <b>Sacred Groves</b>
+    -   #### An application through which you can help protect our Mother Nature🌏
+    -   #### Unfortunately I can't show it until it's done...
     &nbsp;
-1.  &nbsp;&nbsp;Procom Smart Home
-    -   ### An Smart Home application📱 which works even when you don't have internet connection📶 through MQTT protocols and gives lot of ways of customizing your home setup.
-    -   ### How does it looks? - [Checkout this Video!](https://www.youtube.com/watch?v=JkBJJpUsfkI&t=12s)
-    -   ### Wanna try out yourself? - [Download Link](https://play.google.com/store/apps/details?id=com.shade.procom)
+1.  &nbsp;&nbsp; <b>Procom Smart Home</b>
+    -   #### An Smart Home application📱 which works even when you don't have internet connection📶 through MQTT protocols and gives lot of ways of customizing your home setup.
+    -   #### How does it looks? - [Checkout this Video!](https://www.youtube.com/watch?v=JkBJJpUsfkI&t=12s)
+    -   #### Wanna try out yourself? - [Download Link](https://play.google.com/store/apps/details?id=com.shade.procom)
     &nbsp;
-1.  &nbsp;&nbsp;AppTomato
-    -   ### A food ordering app🥗, built for U.K. based audience, which had a deliverence to the clients in under 45 days⏩. 
-    -   ### Go install and try it now! - [Download Link](https://play.google.com/store/apps/details?id=com.oetd.tomato)
+1.  &nbsp;&nbsp; <b>AppTomato</b>
+    -   #### A food ordering app🥗, built for U.K. based audience, which had a deliverence to the clients in under 45 days⏩. 
+    -   #### Go install and try it now! - [Download Link](https://play.google.com/store/apps/details?id=com.oetd.tomato)
     &nbsp;
-1.  &nbsp;&nbsp;Mr.Dhobi
-    -   ### It is an laundry🧺 app, by which you can get your clothes Washed & Ironed in just 3 days!
-    -   ### Want to have a look? - [Download Link](https://play.google.com/store/apps/details?id=com.oetd.mrdhobi)
+1.  &nbsp;&nbsp; <b>Mr.Dhobi</b>
+    -   #### It is an laundry🧺 app, by which you can get your clothes Washed & Ironed in just 3 days!
+    -   #### Want to have a look? - [Download Link](https://play.google.com/store/apps/details?id=com.oetd.mrdhobi)
     &nbsp;
-1.  &nbsp;&nbsp;Smart Spider
-    -   ### It was my first commercial project👦 which was an Home Automation Application
+1.  &nbsp;&nbsp; <b>Smart Spider</b>
+    -   #### It was my first commercial project👦 which was an Home Automation Application
 
 <br><br>
 
