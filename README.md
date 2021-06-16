@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
     <h2>👋 Hello there! I'm</h2>
     <b>
@@ -7,7 +5,7 @@
     <br>
     <h2>I am a Full Stack Flutter Developer and a self taught UI/UX Designer</h3>
 </div>
-<br><br>
+<br><br><br>
 <a href="#mayurnile-title">
   <img src="https://github-readme-stats.vercel.app/api?username=mayurnile&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" alt="mayurnile" align="right" />
 </a>
