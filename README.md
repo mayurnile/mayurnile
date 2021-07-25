@@ -12,7 +12,7 @@
 
 <div><br><br></div>
 
-- 🔭 &nbsp;I'm currently working on **[SacredGroves]()**
+- 🔭 &nbsp;I'm currently working at **[Digital Trons](https://www.digitaltrons.com/)**
 - 🌱 &nbsp;I’m currently learning **[DaVinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve/)**
 - 💬 &nbsp;I like to talk about **PC Tech**
 - 📮 &nbsp;Ask me anything on my **[Issues Page](https://github.com/mayurnile/mayurnile/issues)**
@@ -145,6 +145,10 @@
 # 🧾 Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurnile&theme=tokyonight)](https://github.com/mayurnile/github-readme-stats)
+
+<!-- <img src="https://wakatime.com/share/@mayurnile/7525b64d-31e9-420a-a3b8-214ad9c2ab4a.svg" height=400>
+
+[![mayur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayurnile)](https://github.com/mayurnile/github-readme-stats) -->
 
 
 <!--
