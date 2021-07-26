@@ -20,7 +20,7 @@
 
 <br><br><br>
 
-# 💻 Favorite Tech
+# 🖥 Favorite Tech
 
 > Tools, languages, and other things that I like to work with.
 
@@ -145,6 +145,16 @@
 # 🧾 Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurnile&theme=tokyonight)](https://github.com/mayurnile/github-readme-stats)
+
+<br><br>
+
+# 💻 Workspace Specs
+
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
+![](https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 <!-- <img src="https://wakatime.com/share/@mayurnile/7525b64d-31e9-420a-a3b8-214ad9c2ab4a.svg" height=400>
 
