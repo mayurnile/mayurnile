@@ -88,19 +88,24 @@
     -   #### An application through which you can help protect our Mother Nature🌏
     -   #### Unfortunately I can't show it until it's done...
     &nbsp;
+
 1.  &nbsp;&nbsp; <b>Procom Smart Home</b>
     -   #### An Smart Home application📱 which works even when you don't have internet connection📶 through MQTT protocols and gives lot of ways of customizing your home setup.
     -   #### How does it looks? - [Checkout this Video!](https://www.youtube.com/watch?v=JkBJJpUsfkI&t=12s)
-    -   #### Wanna try out yourself? - [Download Link](https://play.google.com/store/apps/details?id=com.shade.procom)
+    -   #### Wanna try out yourself? - ![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+    [Download Link](https://play.google.com/store/apps/details?id=com.shade.procom)
     &nbsp;
+
 1.  &nbsp;&nbsp; <b>AppTomato</b>
     -   #### A food ordering app🥗, built for U.K. based audience, which had a deliverence to the clients in under 45 days⏩. 
     -   #### Go install and try it now! - [Download Link](https://play.google.com/store/apps/details?id=com.oetd.tomato)
     &nbsp;
+
 1.  &nbsp;&nbsp; <b>Mr.Dhobi</b>
     -   #### It is an laundry🧺 app, by which you can get your clothes Washed & Ironed in just 3 days!
     -   #### Want to have a look? - [Download Link](https://play.google.com/store/apps/details?id=com.oetd.mrdhobi)
     &nbsp;
+
 1.  &nbsp;&nbsp; <b>Smart Spider</b>
     -   #### It was my first commercial project👦 which was an Home Automation Application
 
@@ -155,6 +160,8 @@
 ![](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ![](https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+![](https://img.shields.io/badge/RAM-32GB-ffdf00?style=for-the-badge&logo=corsair&logoColor=white)
 
 <!-- <img src="https://wakatime.com/share/@mayurnile/7525b64d-31e9-420a-a3b8-214ad9c2ab4a.svg" height=400>
 
