@@ -92,8 +92,9 @@
 1.  &nbsp;&nbsp; <b>Procom Smart Home</b>
     -   #### An Smart Home application📱 which works even when you don't have internet connection📶 through MQTT protocols and gives lot of ways of customizing your home setup.
     -   #### How does it looks? - [Checkout this Video!](https://www.youtube.com/watch?v=JkBJJpUsfkI&t=12s)
-    -   #### Wanna try out yourself? - ![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-    [Download Link](https://play.google.com/store/apps/details?id=com.shade.procom)
+    -   #### Wanna try out yourself? - [Download Link](https://play.google.com/store/apps/details?id=com.shade.procom)
+    <!-- ![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) -->
+
     &nbsp;
 
 1.  &nbsp;&nbsp; <b>AppTomato</b>
