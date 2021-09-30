@@ -13,7 +13,7 @@
 <div><br><br></div>
 
 - 🔭 &nbsp;I'm currently working at **[Digital Trons](https://www.digitaltrons.com/)**
-- 🌱 &nbsp;I’m currently learning **[DaVinci Resolve](https://www.blackmagicdesign.com/in/products/davinciresolve/)**
+- 🌱 &nbsp;I’m currently learning **[JavaScript](https://www.javascript.com/)**
 - 💬 &nbsp;I like to talk about **PC Tech**
 - 📮 &nbsp;Ask me anything on my **[Issues Page](https://github.com/mayurnile/mayurnile/issues)**
 - 💻 &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/mayurnile/)**
@@ -86,25 +86,56 @@
 
 1.  &nbsp;&nbsp; <b>Sacred Groves</b>
     -   #### An application through which you can help protect our Mother Nature🌏
-    -   #### Unfortunately I can't show it until it's done...
+    -   #### You can help preseve a Sacred Groves Cluster, by donating the amount for it and even monitor real time stats for that particular cluster and what impact have you made. And many more features built in the app with a beautiful UI.
+    -   #### Try it youself -
+    <br>
+    <a href="https://play.google.com/store/apps/details?id=com.outshade.sacredgroves" >
+      <img src="./media/store-links/googleplay_link.png" height=35px>
+    </a>
+    &nbsp;
+    <a href="https://apps.apple.com/in/app/sacred-groves/id1543864728" >
+      <img src="./media/store-links/appstore_link.png" height=35px>
+    </a>
+
     &nbsp;
 
 1.  &nbsp;&nbsp; <b>Procom Smart Home</b>
     -   #### An Smart Home application📱 which works even when you don't have internet connection📶 through MQTT protocols and gives lot of ways of customizing your home setup.
-    -   #### How does it looks? - [Checkout this Video!](https://www.youtube.com/watch?v=JkBJJpUsfkI&t=12s)
-    -   #### Wanna try out yourself? - [Download Link](https://play.google.com/store/apps/details?id=com.shade.procom)
-    <!-- ![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) -->
+    -   #### How does it looks? - 
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.youtube.com/watch?v=JkBJJpUsfkI&t=12s">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    </a>
+
+    -   #### Wanna try out yourself? - 
+    <br>
+    <a href="https://play.google.com/store/apps/details?id=com.shade.procom" >
+      <img src="./media/store-links/googleplay_link.png" height=35px>
+    </a>
+    &nbsp;
+    <a href="https://apps.apple.com/in/app/procom-smart-home/id1546697153" >
+      <img src="./media/store-links/appstore_link.png" height=35px>
+    </a>
 
     &nbsp;
 
 1.  &nbsp;&nbsp; <b>AppTomato</b>
     -   #### A food ordering app🥗, built for U.K. based audience, which had a deliverence to the clients in under 45 days⏩. 
-    -   #### Go install and try it now! - [Download Link](https://play.google.com/store/apps/details?id=com.oetd.tomato)
+    -   #### Go install and try it now! - 
+    <br>
+    <a href="https://play.google.com/store/apps/details?id=com.oetd.tomato" >
+      <img src="./media/store-links/googleplay_link.png" height=35px>
+    </a>
+    
     &nbsp;
 
 1.  &nbsp;&nbsp; <b>Mr.Dhobi</b>
     -   #### It is an laundry🧺 app, by which you can get your clothes Washed & Ironed in just 3 days!
-    -   #### Want to have a look? - [Download Link](https://play.google.com/store/apps/details?id=com.oetd.mrdhobi)
+    -   #### Want to have a look? - 
+    <br>
+    <a href="https://play.google.com/store/apps/details?id=com.oetd.mrdhobi" >
+      <img src="./media/store-links/googleplay_link.png" height=35px>
+    </a>
+
     &nbsp;
 
 1.  &nbsp;&nbsp; <b>Smart Spider</b>
@@ -158,28 +189,12 @@
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 ![](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ![](https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ![](https://img.shields.io/badge/RAM-32GB-ffdf00?style=for-the-badge&logo=corsair&logoColor=white)
 
-<!-- <img src="https://wakatime.com/share/@mayurnile/7525b64d-31e9-420a-a3b8-214ad9c2ab4a.svg" height=400>
-
-[![mayur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayurnile)](https://github.com/mayurnile/github-readme-stats) -->
-
-
-<!--
-**mayurnile/mayurnile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Apple-MacBook-999999?style=for-the-badge&logo=apple&logoColor=white)
